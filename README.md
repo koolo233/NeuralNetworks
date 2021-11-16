@@ -3,7 +3,7 @@ Python implementation of Neural Networks
 
 
 ### ToDo list
-- [ ] Perceptron
+- [x] [Perceptron](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
 - [ ] Multilayer Perceptrons
 - [ ] Radial-Basis Function Networks(RBF)
 - [ ] Hopfield
@@ -19,3 +19,25 @@ Python implementation of Neural Networks
 - [ ] Graph Neural Network(GNN)
 - [ ] Deep Q-Learning(DQN)
 
+### result
+#### [Perceptron](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
+* [and](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
+![and](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/add_perceptron.gif "segment")
+
+* [or](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
+![or](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/or_perceptron.gif "segment")
+
+* [Nor(x1)](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
+![Nor(x1)](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/nor_x1_perceptron.gif "segment")
+
+* [Nor(x2)](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
+![Nor(x2)](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/nor_x2_perceptron.gif "segment")
+
+* [xoR](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
+![xor](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/xor_perceptron.gif "segment")
+
+* [线性可分样本簇](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
+![xor](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/blobs_perceptron.gif "segment")
+
+* [线性不可分样本簇](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
+![xor](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/moons_perceptron.gif "segment")
