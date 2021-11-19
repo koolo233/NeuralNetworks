@@ -17,9 +17,10 @@ Python implementation of Neural Networks
 - [ ] Convolutional Neural Networks(CNN)
 - [ ] Recurrent Neural Network(RNN)
 - [ ] Graph Neural Network(GNN)
+- [ ] Graph Convolutional Netword(GCN)
 - [ ] Deep Q-Learning(DQN)
 
-### result
+### Result
 #### [Perceptron](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
 * [and](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
 ![and](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/add_perceptron.gif "segment")
