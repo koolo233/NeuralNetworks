@@ -5,6 +5,7 @@ Python implementation of Neural Networks
 ### ToDo list
 - [x] [Perceptron](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
 - [x] [Adaptive Linear Neuron(Adaline)](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
+- [ ] [Basic Automatic Differentiation(AD)]
 - [ ] Multilayer Perceptrons
 - [ ] Radial-Basis Function Networks(RBF)
 - [ ] Hopfield
