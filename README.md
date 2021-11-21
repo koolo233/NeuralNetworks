@@ -4,7 +4,7 @@ Python implementation of Neural Networks
 
 ### ToDo list
 - [x] [Perceptron](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
-- [ ] Adaptive Linear Neuron(Adaline)
+- [x] [Adaptive Linear Neuron(Adaline)](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
 - [ ] Multilayer Perceptrons
 - [ ] Radial-Basis Function Networks(RBF)
 - [ ] Hopfield
@@ -43,3 +43,25 @@ Python implementation of Neural Networks
 
 * [线性不可分样本簇](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
 ![xor](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/moons_perceptron.gif "segment")
+
+#### [Adaptive Linear Neuron(Adaline)](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
+* [and](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
+![and](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/add_adaline.gif "segment")
+
+* [or](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
+![or](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/or_adaline.gif "segment")
+
+* [Nor(x1)](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
+![Nor(x1)](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/nor_x1_adaline.gif "segment")
+
+* [Nor(x2)](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
+![Nor(x2)](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/nor_x2_adaline.gif "segment")
+
+* [xoR](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
+![xor](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/xor_adaline.gif "segment")
+
+* [线性可分样本簇](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
+![xor](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/blobs_adaline.gif "segment")
+
+* [线性不可分样本簇](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
+![xor](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/moons_adaline.gif "segment")
