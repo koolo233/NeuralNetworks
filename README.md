@@ -5,8 +5,8 @@ Python implementation of Neural Networks
 ### ToDo list
 - [x] [Perceptron](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
 - [x] [Adaptive Linear Neuron(Adaline)](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
-- [ ] [Basic Automatic Differentiation(AD)]
-- [ ] Multilayer Perceptrons
+- [x] [Basic Automatic Differentiation(AD)](https://github.com/koolo233/NeuralNetworks/blob/main/BasicAutomaticDifferentiation.ipynb)
+- [ ] Multilayer Perceptrons(Fully Connected Neural Network)
 - [ ] Radial-Basis Function Networks(RBF)
 - [ ] Hopfield
 - [ ] Elmen
@@ -66,3 +66,6 @@ Python implementation of Neural Networks
 
 * [线性不可分样本簇](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
 ![xor](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/moons_adaline.gif "segment")
+
+#### [Basic Automatic Differentiation(AD)](https://github.com/koolo233/NeuralNetworks/blob/main/BasicAutomaticDifferentiation.ipynb)
+![AD_test](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/AD_test_data.gif "segment")
