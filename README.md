@@ -15,7 +15,6 @@ Python implementation of Neural Networks
 - [ ] Self-Organizing Feature Map(SOFM)
 - [ ] Deep Boltzmann Machine(DBM)
 - [ ] Deep Belief Network(DBN)
-- [ ] Fully Connected Neural Network
 - [ ] Convolutional Neural Networks(CNN)
 - [ ] Recurrent Neural Network(RNN)
 - [ ] Graph Neural Network(GNN)
