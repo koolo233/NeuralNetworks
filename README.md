@@ -20,6 +20,7 @@ Python implementation of Neural Networks
 - [ ] Graph Neural Network(GNN)
 - [ ] Graph Convolutional Netword(GCN)
 - [ ] Deep Q-Learning(DQN)
+- [ ] Neural Architecture Search(NAS -> ENAS)
 
 ### Result
 #### [Perceptron](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
