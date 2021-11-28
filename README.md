@@ -19,7 +19,7 @@ Python implementation of Neural Networks
 - [ ] Recurrent Neural Network(RNN)
 - [ ] Graph Neural Network(GNN)
 - [ ] Graph Convolutional Netword(GCN)
-- [ ] Deep Q-Learning(DQN) 
+- [ ] Deep Q-Learning(DQN)
 - [ ] Neural Architecture Search(NAS -> ENAS)
 
 ### Result
