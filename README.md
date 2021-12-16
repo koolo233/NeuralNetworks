@@ -8,7 +8,7 @@ Python implementation of Neural Networks
 - [x] [Basic Automatic Differentiation(AD)](https://github.com/koolo233/NeuralNetworks/blob/main/BasicAutomaticDifferentiation.ipynb)
 - [x] [Multilayer Perceptrons(Fully Connected Neural Network)](https://github.com/koolo233/NeuralNetworks/blob/main/FullyConnectedNeuralNetwork.ipynb)
 - [ ] Radial-Basis Function Networks(RBF)
-- [ ] Hopfield
+- [x] [Hopfield](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
 - [ ] Elmen
 - [ ] Cerebellar Model Articulation Controller(CMAC)
 - [ ] Hamming
@@ -95,3 +95,8 @@ Python implementation of Neural Networks
 
 * [非线性回归](https://github.com/koolo233/NeuralNetworks/blob/main/FullyConnectedNeuralNetwork.ipynb)
 ![nonlinear_regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/nonlinear_regression_BPNetwork.gif "segment")
+
+#### [Hopfield](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
+
+* [联想记忆](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
+![nonlinear_regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/Hopfield.png "segment")
