@@ -9,7 +9,8 @@ Python implementation of Neural Networks
 - [x] [Multilayer Perceptrons(Fully Connected Neural Network)](https://github.com/koolo233/NeuralNetworks/blob/main/FullyConnectedNeuralNetwork.ipynb)
 - [ ] Radial-Basis Function Networks(RBF)
 - [x] [Hopfield](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
-- [ ] Elmen
+- [ ] Jordan
+- [ ] Elman
 - [ ] Cerebellar Model Articulation Controller(CMAC)
 - [ ] Hamming
 - [ ] Self-Organizing Feature Map(SOFM)
