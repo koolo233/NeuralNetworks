@@ -11,7 +11,7 @@ Python implementation of Neural Networks
 - [x] [Hopfield](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
 - [ ] Jordan
 - [ ] Elman
-- [ ] Cerebellar Model Articulation Controller(CMAC)
+- [x] Cerebellar Model Articulation Controller(CMAC)
 - [ ] Hamming
 - [ ] Self-Organizing Feature Map(SOFM)
 - [ ] Deep Boltzmann Machine(DBM)
@@ -101,3 +101,8 @@ Python implementation of Neural Networks
 
 * [联想记忆](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
 ![nonlinear_regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/Hopfield.png "segment")
+
+#### [Cerebellar Model Articulation Controller(CMAC)](https://github.com/koolo233/NeuralNetworks/blob/main/CMAC.ipynb)
+
+* [拟合函数](https://github.com/koolo233/NeuralNetworks/blob/main/CMAC.ipynb)
+![regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/CMAC_sin_cos.gif "segment")
