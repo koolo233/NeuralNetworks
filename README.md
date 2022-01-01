@@ -11,9 +11,9 @@ Python implementation of Neural Networks
 - [x] [Hopfield](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
 - [ ] Jordan
 - [ ] Elman
-- [x] [Cerebellar Model Articulation Controller(CMAC)](https://github.com/koolo233/NeuralNetworks/blob/main/CMAC.ipynb)
-- [ ] Hamming
+- [x] [Hamming Neural Network](https://github.com/koolo233/NeuralNetworks/blob/main/Hamming.ipynb)
 - [ ] Self-Organizing Feature Map(SOFM)
+- [x] [Cerebellar Model Articulation Controller(CMAC)](https://github.com/koolo233/NeuralNetworks/blob/main/CMAC.ipynb)
 - [ ] Deep Boltzmann Machine(DBM)
 - [ ] Deep Belief Network(DBN)
 - [ ] Convolutional Neural Networks(CNN)
@@ -101,6 +101,11 @@ Python implementation of Neural Networks
 
 * [联想记忆](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
 ![nonlinear_regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/Hopfield.png "segment")
+
+#### [HammingNN](https://github.com/koolo233/NeuralNetworks/blob/main/Hamming.ipynb)
+
+* [联想记忆](https://github.com/koolo233/NeuralNetworks/blob/main/Hamming.ipynb)
+![regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/Hamming_example_1.png "segment")
 
 #### [Cerebellar Model Articulation Controller(CMAC)](https://github.com/koolo233/NeuralNetworks/blob/main/CMAC.ipynb)
 
