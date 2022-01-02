@@ -12,7 +12,7 @@ Python implementation of Neural Networks
 - [ ] Jordan
 - [ ] Elman
 - [x] [Hamming Neural Network](https://github.com/koolo233/NeuralNetworks/blob/main/Hamming.ipynb)
-- [ ] Self-Organizing Feature Map(SOFM)
+- [x] [Self-Organizing Feature Map(SOFM)](https://github.com/koolo233/NeuralNetworks/blob/main/SOFM.ipynb)
 - [x] [Cerebellar Model Articulation Controller(CMAC)](https://github.com/koolo233/NeuralNetworks/blob/main/CMAC.ipynb)
 - [ ] Deep Boltzmann Machine(DBM)
 - [ ] Deep Belief Network(DBN)
@@ -100,12 +100,24 @@ Python implementation of Neural Networks
 #### [Hopfield](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
 
 * [联想记忆](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
+
 ![nonlinear_regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/Hopfield.png "segment")
 
 #### [HammingNN](https://github.com/koolo233/NeuralNetworks/blob/main/Hamming.ipynb)
 
 * [联想记忆](https://github.com/koolo233/NeuralNetworks/blob/main/Hamming.ipynb)
+
 ![regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/Hamming_example_1.png "segment")
+
+#### [SOFM](https://github.com/koolo233/NeuralNetworks/blob/main/SOFM.ipynb)
+
+* [保序映射](https://github.com/koolo233/NeuralNetworks/blob/main/SOFM.ipynb)
+
+![保序映射](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/SOFM_example_1.gif "segment")
+
+* [聚类](https://github.com/koolo233/NeuralNetworks/blob/main/SOFM.ipynb)
+
+![聚类](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/SOFM_example_2.gif "segment")
 
 #### [Cerebellar Model Articulation Controller(CMAC)](https://github.com/koolo233/NeuralNetworks/blob/main/CMAC.ipynb)
 
