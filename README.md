@@ -10,7 +10,7 @@ Python implementation of Neural Networks
 - [x] [Radial-Basis Function Networks(RBF)](https://github.com/koolo233/NeuralNetworks/blob/main/RBF.ipynb)
 - [x] [Hopfield](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
 - [ ] Jordan
-- [ ] Elman
+- [x] [Elman](https://github.com/koolo233/NeuralNetworks/blob/main/Elman.ipynb)
 - [x] [Hamming Neural Network](https://github.com/koolo233/NeuralNetworks/blob/main/Hamming.ipynb)
 - [x] [Self-Organizing Feature Map(SOFM)](https://github.com/koolo233/NeuralNetworks/blob/main/SOFM.ipynb)
 - [x] [Cerebellar Model Articulation Controller(CMAC)](https://github.com/koolo233/NeuralNetworks/blob/main/CMAC.ipynb)
@@ -112,6 +112,16 @@ Python implementation of Neural Networks
 * [联想记忆](https://github.com/koolo233/NeuralNetworks/blob/main/Hopfield.ipynb)
 
 ![nonlinear_regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/Hopfield.png "segment")
+
+#### [Elman](https://github.com/koolo233/NeuralNetworks/blob/main/Elman.ipynb)
+
+* [回归1](https://github.com/koolo233/NeuralNetworks/blob/main/Elman.ipynb)
+
+![regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/Elman_regression_example_1.gif "segment")
+
+* [回归2](https://github.com/koolo233/NeuralNetworks/blob/main/Elman.ipynb)
+
+![regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/Elman_regression_example_2.gif "segment")
 
 #### [HammingNN](https://github.com/koolo233/NeuralNetworks/blob/main/Hamming.ipynb)
 
