@@ -117,11 +117,11 @@ Python implementation of Neural Networks
 
 * [回归1](https://github.com/koolo233/NeuralNetworks/blob/main/Elman.ipynb)
 
-![regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/Elman_regression_example_1.gif "segment")
+![regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/ELman_regression_example_1.gif "segment")
 
 * [回归2](https://github.com/koolo233/NeuralNetworks/blob/main/Elman.ipynb)
 
-![regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/Elman_regression_example_2.gif "segment")
+![regression](https://raw.githubusercontent.com/koolo233/NeuralNetworks/main/images/ELman_regression_example_2.gif "segment")
 
 #### [HammingNN](https://github.com/koolo233/NeuralNetworks/blob/main/Hamming.ipynb)
 
