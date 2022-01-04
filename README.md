@@ -2,6 +2,14 @@
 Python implementation of Neural Networks
 
 
+网页打开jupyter可能存在公式渲染错误的问题，在VS Code中利用Markdown Preview Enhanced进行渲染则可以保证正常。
+
+具体操作为：
+* 安装VS Code以及Markdown Preview Enhanced插件
+* 打开README.md并启用Markdown Preview Enhanced渲染
+* 切换到需要进行渲染的Jupyter Markdown Block并进入编辑模式
+
+
 ### ToDo list
 - [x] [Perceptron](https://github.com/koolo233/NeuralNetworks/blob/main/Perceptron.ipynb)
 - [x] [Adaptive Linear Neuron(Adaline)](https://github.com/koolo233/NeuralNetworks/blob/main/Adaline.ipynb)
